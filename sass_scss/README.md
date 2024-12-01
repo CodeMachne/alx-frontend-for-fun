@@ -1,1 +1,1 @@
-# README for Ssass
+sass and scss
